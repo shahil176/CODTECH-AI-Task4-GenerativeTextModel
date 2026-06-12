@@ -40,4 +40,5 @@ artificial intelligence is is the the the industry industry industry industry br
 
 OUTPUT IMAGE
 
-(Add the screenshot of the program execution here.)
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/09066875-fbc8-499d-b49e-edc92def716b" />
+
